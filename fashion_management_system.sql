@@ -52,3 +52,9 @@ INSERT INTO Orders (customer_id, clothing_id, quantity, order_date) VALUES
 (3, 3, 1, '2024-10-03 12:45:00'),
 (4, 4, 1, '2024-10-04 14:20:00'),
 (5, 5, 1, '2024-10-05 16:15:00');
+
+
+show tables;
+select * from clothing;
+select * from customers;
+select * from orders;
