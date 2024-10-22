@@ -1,5 +1,7 @@
 create database fashion_management_system;
+
 use fashion_management_system;
+
 CREATE TABLE IF NOT EXISTS Clothing (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
     name TEXT NOT NULL,
